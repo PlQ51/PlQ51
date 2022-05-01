@@ -6,4 +6,4 @@
 ## 💻 개발했던 프로젝트
 - 02 봇
 
-https://img.shields.io/badge/My_Github-black?logo=github
+![github badge](https://img.shields.io/badge/My_Github-black?logo=github)
