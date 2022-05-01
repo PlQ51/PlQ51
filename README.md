@@ -6,4 +6,4 @@
 ## 💻 개발했던 프로젝트
 - 02 봇
 
-<a href='https://github.com/PlQ15'><img src=https://img.shields.io/badge/My_Github-black?logo=github></a>
+<a href='https://github.com/PlQ51'>![github](https://img.shields.io/badge/My_Github-black?logo=github)></a>
