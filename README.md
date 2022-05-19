@@ -11,4 +11,4 @@
 <a href="https://www.discord.gg/GEYvSHbDet">![Discord](https://img.shields.io/badge/Discord-9cf?logo=discord)</a>
 
 ## 스탯
-[![Plq's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlQ51)](https://github.com/anuraghazra/github-readme-stats)
+[![Plq's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlQ51&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
