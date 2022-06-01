@@ -1,9 +1,10 @@
 # 🎈 About ME
 ## 💻 개발중인 프로젝트
-- 플봇 (Plbot)
-- OP Bot
+- 없음(None)
 
 ## 💻 개발했던 프로젝트
+- 플봇 (Plbot)
+- OP Bot
 - 02 봇
 
 ## 🔗 링크
